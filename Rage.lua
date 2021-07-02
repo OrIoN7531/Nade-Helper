@@ -1,3 +1,4 @@
+
 gui.SetValue("esp")
 gui.SetValue("esp.chams" )
 gui.SetValue("esp.chams.backtrack" )
@@ -646,7 +647,7 @@ gui.SetValue("rbot.antiaim.extra" )
 gui.SetValue("rbot.antiaim.extra.fakecrouchkey", 67)
 gui.SetValue("rbot.antiaim.extra.fakecrouchstyle", "Unduck")
 gui.SetValue("rbot.antiaim.extra.staticlegs", "Off")
-gui.SetValue("rbot.antiaim.left 175.0", "Desync")
+gui.SetValue("rbot.antiaim.left", 175.0, "Desync")
 gui.SetValue("rbot.antiaim.left.lby", 90.0)
 gui.SetValue("rbot.antiaim.left.rotation", -58.0)
 gui.SetValue("rbot.antiaim.left.spinspeed", 60.0)
